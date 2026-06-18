@@ -132,22 +132,6 @@ Classe auxiliar para validação simples de e-mails.
 
 ---
 
-## Como Executar
-
-1. Compile todos os arquivos Java:
-
-```bash
-javac app/Main.java
-```
-
-2. Execute o programa:
-
-```bash
-java app.Main
-```
-
----
-
 ## Autor
 Eduardo tabosa.
 
